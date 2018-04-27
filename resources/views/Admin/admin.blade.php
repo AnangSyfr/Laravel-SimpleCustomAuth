@@ -1,0 +1,1 @@
+ini adalah halaman admin dengan nama {{ Session::get('name')}} <a href="{{ route('logout')}}">Logout</a>
